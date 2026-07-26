@@ -30,7 +30,8 @@ This ranked view gives Liberty a focused CEO meeting shortlist. The bar length a
 
 ## 🗺️ Buyer Coverage by State
 
-<img width="685" height="213" alt="Buyer Tier Distribution by State" src="https://github.com/user-attachments/assets/35cfd8d5-9ae9-415c-ac59-9eba983d889b" />
+<img width="685" height="476" alt="Australian Buyer Coverage Map" src="https://github.com/user-attachments/assets/033daa40-5bcf-4a7b-b163-c7db5a944bb5" />
+
 
 
 
