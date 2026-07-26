@@ -39,7 +39,8 @@ The filled map shows the geographic concentration of buyers across Australia. Da
 ## 🧩 Buyer Tier Distribution by State
 
 
-<img width="685" height="237" alt="Product Category Coverage" src="https://github.com/user-attachments/assets/88a891fd-48f5-4aa8-a803-81b38b46be89" />
+<img width="685" height="213" alt="Buyer Tier Distribution by State" src="https://github.com/user-attachments/assets/cd5dc5da-7c32-4391-b134-a8e7211770b4" />
+
 
 
 The stacked bars compare total buyer volume and tier composition at the same time. Tier 1 represents buyers with high order potential and priority for CEO meetings; Tier 2 represents medium-potential buyers suited to structured follow-up.
