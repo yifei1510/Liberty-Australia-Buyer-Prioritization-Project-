@@ -30,7 +30,8 @@ This ranked view gives Liberty a focused CEO meeting shortlist. The bar length a
 
 ## 🗺️ Buyer Coverage by State
 
-<img width="685" height="476" alt="Australian Buyer Coverage Map" src="https://github.com/user-attachments/assets/6b50b7e8-68ce-4939-b4d8-d022db3d92c5" />
+<img width="685" height="213" alt="Buyer Tier Distribution by State" src="https://github.com/user-attachments/assets/35cfd8d5-9ae9-415c-ac59-9eba983d889b" />
+
 
 
 The filled map shows the geographic concentration of buyers across Australia. Darker states contain more buyers, making NSW, VIC and QLD visible as the strongest areas of coverage while also highlighting lower-coverage territories.
